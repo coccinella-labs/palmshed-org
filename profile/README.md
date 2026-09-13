@@ -40,6 +40,6 @@ Some repositories reference or originate from work maintained by the following o
 - [`harpertoken`](https://github.com/coccinella-labs)
 - [`emberlamp`](https://github.com/emberlamp)
 - [`designgrade`](https://github.com/designgrade)
-- [`libnudget`](https://github.com/libnudget)
+- [`libnudget`](https://github.com/coccinella-labs)
 
 </details>
