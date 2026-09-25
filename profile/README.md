@@ -1,5 +1,5 @@
 <p>
-  <img src="https://raw.githubusercontent.com/coccinella-labs/palmshed-org/main/profile/mark.svg" width="64" height="64" alt="">
+  <img src="https://raw.githubusercontent.com/palmshed/palmshed-org/main/profile/mark.svg" width="64" height="64" alt="">
 </p>
 
 # Palmshed
@@ -24,11 +24,11 @@ If you believe a repository should be corrected, credited, removed, or made priv
 
 ## Links
 
-<img src="https://raw.githubusercontent.com/coccinella-labs/palmshed-org/main/profile/mark.svg" width="16" height="16" alt=""> [warehouse](https://palmshed.github.io)
+<img src="https://raw.githubusercontent.com/palmshed/palmshed-org/main/profile/mark.svg" width="16" height="16" alt=""> [warehouse](https://palmshed.github.io)
 
-<img src="https://raw.githubusercontent.com/coccinella-labs/palmshed-org/main/profile/source.svg" width="16" height="16" alt=""> [source](https://github.com/palmshed/.github)
+<img src="https://raw.githubusercontent.com/palmshed/palmshed-org/main/profile/source.svg" width="16" height="16" alt=""> [source](https://github.com/palmshed/.github)
 
-<img src="https://raw.githubusercontent.com/coccinella-labs/palmshed-org/main/profile/bell.svg" width="16" height="16" alt=""> [updates](https://github.com/gpucomm-hq)
+<img src="https://raw.githubusercontent.com/palmshed/palmshed-org/main/profile/bell.svg" width="16" height="16" alt=""> [updates](https://github.com/gpucomm-hq)
 
 ## References
 
