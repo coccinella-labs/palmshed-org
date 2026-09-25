@@ -37,7 +37,6 @@ If you believe a repository should be corrected, credited, removed, or made priv
 
 Some repositories reference or originate from work maintained by the following organizations.
 
-- [`harpertoken`](https://github.com/coccinella-labs)
 - [`designgrade`](https://github.com/designgrade)
 
 </details>
