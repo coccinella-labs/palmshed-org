@@ -8,16 +8,16 @@ Shared files and configuration for the Palmshed GitHub organization.
 
 ## Contents
 
-<img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> [`profile/README.md`](profile/README.md)  
+<img src="https://raw.githubusercontent.com/coccinella-labs/palmshed-org/main/profile/source.svg" width="16" height="16" alt=""> [`profile/README.md`](profile/README.md)  
 Organization profile displayed on the GitHub organization page.
 
-<img src="https://github.com/palmshed/.github/raw/main/profile/mark.svg" width="16" height="16" alt=""> [`profile/mark.svg`](profile/mark.svg)  
+<img src="https://raw.githubusercontent.com/coccinella-labs/palmshed-org/main/profile/mark.svg" width="16" height="16" alt=""> [`profile/mark.svg`](profile/mark.svg)  
 Organization mark.
 
-<img src="https://github.com/palmshed/.github/raw/main/profile/source.svg" width="16" height="16" alt=""> [`profile/source.svg`](profile/source.svg)  
+<img src="https://raw.githubusercontent.com/coccinella-labs/palmshed-org/main/profile/source.svg" width="16" height="16" alt=""> [`profile/source.svg`](profile/source.svg)  
 Source icon.
 
-<img src="https://github.com/palmshed/.github/raw/main/profile/bell.svg" width="16" height="16" alt=""> [`profile/bell.svg`](profile/bell.svg)  
+<img src="https://raw.githubusercontent.com/coccinella-labs/palmshed-org/main/profile/bell.svg" width="16" height="16" alt=""> [`profile/bell.svg`](profile/bell.svg)  
 Updates icon.
 
 ## Notes
